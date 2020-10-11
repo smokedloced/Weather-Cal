@@ -5,10 +5,10 @@
  */
 
 // To use weather, get a free API key at openweathermap.org/appid and paste it in between the quotation marks.
-const apiKey = ""
+const apiKey = "8c713b876df733e200af8bf324ef2bf7"
 
 // Set the locale code. Leave blank "" to match the device's locale. You can change the hard-coded text strings in the TEXT section below.
-let locale = "en"
+let locale = ""
 
 // Set to true for fixed location, false to update location as you move around
 const lockLocation = true
